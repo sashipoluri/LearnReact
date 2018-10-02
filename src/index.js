@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>
-      <h2>testing</h2>
+      <h2>testing with git hub</h2>
     </div>
   );
 }
